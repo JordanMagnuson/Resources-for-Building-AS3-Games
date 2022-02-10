@@ -2,6 +2,10 @@
 
 This repository contains help and resources for building ActionScript 3 Flash games (speficially with FlashDevelop and FlashPunk) in the post-2020 "death of Flash" era.
 
+Have additional tips, or guides for other frameworks (e.g. Flixel)? Please contribute!
+
+Have old AS3 games lying around? Please consider releasing the source code if possible, to aid Flash game preservation efforts!
+
 ## Setting up FlashDevelop for AS3 post-2020
 
 In order to start making Flash games we need to get FlashDevelop (a code editor) set up with Flex SDK and debug Flash player. 
