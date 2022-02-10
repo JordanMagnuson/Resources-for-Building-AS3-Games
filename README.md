@@ -1,6 +1,6 @@
-# Help and resources for building ActionScript 3 games post-2020
+# Help and resources for building AS3 Flash games post-2020
 
-This repository contains help and resources for building AS3 Flash games (speficially with FlashDevelop and FlashPunk) in the post-2020 "death of Flash" era.
+This repository contains help and resources for building ActionScript 3 Flash games (speficially with FlashDevelop and FlashPunk) in the post-2020 "death of Flash" era.
 
 ## Setting up FlashDevelop for AS3 post-2020
 
