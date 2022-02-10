@@ -8,7 +8,7 @@ Have old AS3 games lying around? Please consider releasing the source code if po
 
 ## Setting up FlashDevelop for AS3 post-2020
 
-In order to start making Flash games we need to get FlashDevelop (a code editor) set up with Flex SDK and debug Flash player. 
+In order to start making Flash games we need to get FlashDevelop (a free AS3 code editor and IDE) set up with Flex SDK and debug Flash player. 
 
 There are a few hiccups when it comes to doing this post-2020, but it is still possible.
 
