@@ -1,6 +1,8 @@
 # Help and resources for building AS3 Flash games post-2020
 
-This repository contains help and resources for building ActionScript 3 Flash games in the post-2020 "death of Flash" era.
+This repository contains help and resources for building ActionScript 3 Flash games from source in the post-2020 "death of Flash" era.
+
+(Note: this guide is for compiling and running AS3 games from source code. If you simply want to open and run an existing SWF file, check out the [Newgrounds Flash Player](https://www.newgrounds.com/flash/player).)
 
 This guide can be used as a general referrence for getting ActionScript 3 code compiling, but also has specific instructions for the following IDEs and frameworks:
 - FlashDevelop
