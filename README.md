@@ -53,6 +53,10 @@ I’ve packaged a working binary release of Apache Flex SDK 4.16.1 for Windows w
 
 Unzip the contents of that zip into a root folder like c:\Flex
 
+If you want to be able to build AIR apps in addition to SWF files, you will also need to unzip the contents of AirSDK.zip into the same directory and overwrite files as necessary.
+
+**Finally, add the Flex SDK directory's bin folder (e.g. c:\Flex\bin) to your operating system's global PATH.** You can find instructions for how to do this on Windows [here](https://help.adobe.com/en_US/air/build/WSfffb011ac560372f-71994050128cca87097-8000.html#WS2d929364fa0b8137-78b25bdf12a498897d1-7fff).
+
 
 ## 3. Configure Flash Develop
 
